@@ -1,2 +1,2 @@
 # My_Github
-- Editei meu repo remoto
+- Editando meu repo remoto  
